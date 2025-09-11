@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-marcos-montero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:marcos.mon.rod@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40marcos.dev-black?logo=gmail"></a>
+  <a href="mailto:marcos.mon.rod@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcos-black?logo=gmail"></a>
   <img alt="Location" src="https://img.shields.io/badge/Madrid-remote--friendly-000000?logo=homeassistant&logoColor=white">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-EM%20%7C%20Staff%20FE-111111">
 </p>
@@ -52,38 +52,12 @@ Build **motivated teams** and **ship web products** that move business metrics �
 - **Execution** (quarterly planning, WIP limits, risk register, demo culture)
 - **Team development** (career ladders for ICs/EMs, growth plans, knowledge sharing)
 
-> A few of these are open-sourced below for reuse.
-
----
-
-## Featured repos
-
-- 🧱 **next-supabase-rbac-starter** — Auth, RLS, RBAC Admin, Stripe, tests, CI/CD.  
-  _“What I wish I had the day we started building SaaS #1.”_
-
-- 🧪 **web-testing-pyramid** — Realistic testing setup (Vitest/RTL + Playwright), fixtures, contract tests.
-
-- 🎛️ **design-system-seed** — Tokens, theming, a11y checks, Storybook + Chromatic, CI gates.
-
-- 🚀 **launch-readiness-checklist** — PR/Release templates, SLOs, runbooks, postmortem doc.
-
-> Replace with your actual repos; keep the “why it exists” one-liner.
-
----
-
-## Writing / talks
-- **From manual ops to self-serve**: how we automated €30k/week bookings with Next.js & Postgres.  
-- **Hackathons that matter**: using game design to unlock technical breakthroughs.  
-- **Roadmaps that ship**: 6 patterns to go from “busy” to predictable.
-
-_(Publish as GitHub Discussions or medium-length docs in a `/docs` folder — link them here.)_
-
 ---
 
 ## What I’m open to
 - **Engineering Manager** for web/product teams (people + delivery + quality).  
 - **Staff Frontend** with cross-team impact (platform/design-system/perf).  
-- Remote-first EU/UK/US-friendly, **€80k+** base.
+- Remote-first EU/UK/US-friendly.
 
 ---
 
