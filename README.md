@@ -66,19 +66,46 @@
 
 <!-- Tech -->
 <h2>🧪 Tech I speak</h2>
-<p>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square">
-    <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square">
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white&style=flat-square">
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square">
-    <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat-square">
-    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat-square">
-  </p>
+<p style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=61DAFB&color=61DAFB" style="border-radius: 12px; padding: 4px;">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000&color=000000" style="border-radius: 12px; padding: 4px;">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6&color=3178C6" style="border-radius: 12px; padding: 4px;">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E&color=F7DF1E" style="border-radius: 12px; padding: 4px;">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26&color=E34F26" style="border-radius: 12px; padding: 4px;">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6&color=1572B6" style="border-radius: 12px; padding: 4px;">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4&color=06B6D4" style="border-radius: 12px; padding: 4px;">
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge&labelColor=DB7093&color=DB7093" style="border-radius: 12px; padding: 4px;">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=316192&color=316192" style="border-radius: 12px; padding: 4px;">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248&color=47A248" style="border-radius: 12px; padding: 4px;">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&labelColor=DC382D&color=DC382D" style="border-radius: 12px; padding: 4px;">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge&labelColor=3ECF8E&color=3ECF8E" style="border-radius: 12px; padding: 4px;">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=FFCA28&color=FFCA28" style="border-radius: 12px; padding: 4px;">
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge&labelColor=635BFF&color=635BFF" style="border-radius: 12px; padding: 4px;">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933&color=339933" style="border-radius: 12px; padding: 4px;">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000&color=000000" style="border-radius: 12px; padding: 4px;">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge&labelColor=E10098&color=E10098" style="border-radius: 12px; padding: 4px;">
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-02569B?logo=rest&logoColor=white&style=for-the-badge&labelColor=02569B&color=02569B" style="border-radius: 12px; padding: 4px;">
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge&labelColor=8DD6F9&color=8DD6F9" style="border-radius: 12px; padding: 4px;">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF&color=646CFF" style="border-radius: 12px; padding: 4px;">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED&color=2496ED" style="border-radius: 12px; padding: 4px;">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge&labelColor=232F3E&color=232F3E" style="border-radius: 12px; padding: 4px;">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=000000&color=000000" style="border-radius: 12px; padding: 4px;">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white&style=for-the-badge&labelColor=45ba4b&color=45ba4b" style="border-radius: 12px; padding: 4px;">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge&labelColor=17202C&color=17202C" style="border-radius: 12px; padding: 4px;">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge&labelColor=C21325&color=C21325" style="border-radius: 12px; padding: 4px;">
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white&style=for-the-badge&labelColor=E33332&color=E33332" style="border-radius: 12px; padding: 4px;">
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge&labelColor=E37400&color=E37400" style="border-radius: 12px; padding: 4px;">
+  <img alt="Hotjar" src="https://img.shields.io/badge/Hotjar-FD3A5C?logo=hotjar&logoColor=white&style=for-the-badge&labelColor=FD3A5C&color=FD3A5C" style="border-radius: 12px; padding: 4px;">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E&color=F24E1E" style="border-radius: 12px; padding: 4px;">
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge&labelColor=FF4785&color=FF4785" style="border-radius: 12px; padding: 4px;">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032&color=F05032" style="border-radius: 12px; padding: 4px;">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge&labelColor=2088FF&color=2088FF" style="border-radius: 12px; padding: 4px;">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=for-the-badge&labelColor=2088FF&color=2088FF" style="border-radius: 12px; padding: 4px;">
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge&labelColor=4B32C3&color=4B32C3" style="border-radius: 12px; padding: 4px;">
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge&labelColor=F7B93E&color=F7B93E" style="border-radius: 12px; padding: 4px;">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge&labelColor=CB3837&color=CB3837" style="border-radius: 12px; padding: 4px;">
+  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge&labelColor=2C8EBB&color=2C8EBB" style="border-radius: 12px; padding: 4px;">
+</p>
 
 <!-- Playbooks -->
 <h2>📒 Playbooks I use</h2>
