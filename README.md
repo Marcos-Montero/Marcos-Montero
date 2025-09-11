@@ -64,27 +64,3 @@ Build **motivated teams** and **ship web products** that move business metrics â
 ### Contact
 - DM on **LinkedIn**, or email **marcos.mon.rod@gmail.com**.
 
----
-
-<details>
-  <summary>Automation (optional): GitHub Metrics badge</summary>
-
-Add a profile metrics card with a scheduled action:
-
-```yaml
-# .github/workflows/metrics.yml
-name: Metrics
-on:
-  schedule: [{cron: "0 8 * * 1"}]  # weekly
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity
-          plugin_isocalendar: yes
-          plugin_followup: yes
-          plugin_traffic: yes
